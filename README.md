@@ -55,4 +55,4 @@ To run this analysis:
 Conclusion
 ----------
 
-This project offers a data-driven exploration into the viability of specific NBA betting strategies, particularly focusing on the dynamics of late-game betting. Through rigorous data analysis and machine learning, we provide insights that can guide bettors in making informed decisions, potentially uncovering profitable betting opportunities.
+This project offers a data-driven exploration into the viability of specific NBA betting strategies, particularly focusing on the dynamics of late-game betting. Through rigorous data analysis and machine learning, the moedel provides insights that can guide bettors in making informed decisions, potentially uncovering profitable betting opportunities.
