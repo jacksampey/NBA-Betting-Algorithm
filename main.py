@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 
 def main():
-    filepath = 'game_data.csv'
+    filepath = 'NBA-Betting-Algorithm\game_data.csv'
     
     data_handler = DataHandler(filepath)
     
