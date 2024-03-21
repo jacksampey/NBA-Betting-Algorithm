@@ -7,11 +7,11 @@ Overview
 This project investigates the hypothesis that betting on the favorite to cover the spread in the final minutes of late-window NBA games offers a statistical advantage. By leveraging data analysis, machine learning models, and statistical simulations, I aim to uncover insights into effective betting strategies and evaluate the predictive power of game-specific metrics.
 
 -----------------
-![Sports](https://github.com/jacksampey/SportsAlgo/assets/116771647/2d4d9ca9-7e3b-4b8b-8a8e-921bf9d32f82)
+![Sports](https://github.com/jacksampey/NBA-Betting-Algorithm/assets/116771647/86596ea5-b32a-4be7-a7d1-44d049e7d5d0)
 -----------------
-![Sports1](https://github.com/jacksampey/SportsAlgo/assets/116771647/9771f414-971f-4529-ac0f-3d5304d5920f)
+![Sports1](https://github.com/jacksampey/NBA-Betting-Algorithm/assets/116771647/0552671d-a0fa-47e5-a805-adc11f706349)
 -----------------
-![Sports3](https://github.com/jacksampey/SportsAlgo/assets/116771647/82e039cc-4707-4a66-b247-0cd0577e2a6c)
+![Sports3](https://github.com/jacksampey/NBA-Betting-Algorithm/assets/116771647/7a6d1e63-4e94-41a4-b1fb-d98a82fb29be)
 -----------------
 Technologies Used
 -----------------
