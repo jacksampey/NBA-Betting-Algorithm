@@ -1,4 +1,4 @@
-NBA Late-Game Betting Strategy Analysis
+NBA Betting with Machine Learning
 =======================================
 
 Overview
